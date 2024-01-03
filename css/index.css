@@ -16,7 +16,7 @@ body {
 
 .video-box {
     width: 45%;
-    height: 50%; 
+    height: 38vh; 
     margin-bottom: 2vh;
     border: 5px  black solid
 
@@ -24,7 +24,7 @@ body {
 
 .video-box iframe {
     width: 100%;
-    height: 120%;
+    height: 100%
 }
 
 .bottom-section {
