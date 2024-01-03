@@ -19,7 +19,6 @@ body {
     height: 80vh; 
     margin-bottom: 2vh;
     border: 5px  black solid;
-    pointer-events: none; /* Disable pointer events for the video box */
 
 }
 
